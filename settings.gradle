@@ -1,0 +1,1 @@
+include ':app', ':chat-sdk-contact-book', ':chat-sdk-core', 'chat-sdk-ui', 'chat-sdk-firebase-adapter'

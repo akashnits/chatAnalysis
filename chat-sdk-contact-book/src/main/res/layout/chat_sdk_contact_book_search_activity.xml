@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_above="@id/chat_sdk_btn_add_contacts"
+        android:id="@+id/chat_sdk_list_search_results"
+        android:layout_gravity="center_horizontal"
+        android:scrollbars="none"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/add_contacts"
+        android:id="@+id/chat_sdk_btn_add_contacts"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>

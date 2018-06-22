@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "774747749709",
+    "firebase_url": "https://chatanalysis-96c49.firebaseio.com",
+    "project_id": "chatanalysis-96c49",
+    "storage_bucket": "chatanalysis-96c49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774747749709:android:c37aac2d3b14513a",
+        "android_client_info": {
+          "package_name": "com.cloudbanter.chatanalysis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774747749709-ecidkf1nqsh4ip4u2bbtoe3uvubf73ur.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "774747749709-ecidkf1nqsh4ip4u2bbtoe3uvubf73ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgT-bHLjaU_bXgfZber92i60o1iRbMqNQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
